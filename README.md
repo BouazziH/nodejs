@@ -1,6 +1,6 @@
 
 ****pour afficher les resultas d'un fichier faut executer en bash node nomfichier.js
-****npm inti -y :c'est pour cree un fichier json souf ligne de commande .
+****npm inti -y :c'est pour cree un fichier json sous ligne de commande .
 ****touch : c'est pour cree des fichiers sous ligne de commande .
 **** npm start : sous cmd c'est pour lancer l'application .
 **** pour instaler nodemon :on tappe sur bash => npm i nodemon .
